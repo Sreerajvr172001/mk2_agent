@@ -95,10 +95,10 @@ SIMULATED_DETECTIONS = [
     {
         "label": "person",
         "confidence": 0.94,
-        "bbox_center_x": 158.0,   # near center horizontally — directly ahead
-        "bbox_center_y": 120.0,   # near center vertically
-        "bbox_width": 110.0,      # 110/320 = ~34% of frame width — large, close
-        "bbox_height": 180.0,
+        "bbox_center_x": 50.0,   # near center horizontally — directly ahead
+        "bbox_center_y": 50.0,   # near center vertically
+        "bbox_width": 10.0,      # 110/320 = ~34% of frame width — large, close
+        "bbox_height": 10.0,
     },
     {
         "label": "chair",
